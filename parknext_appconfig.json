@@ -1,5 +1,5 @@
 {
-  "is_app_active": true,
+  "is_app_active": false,
   "title": "Service Temporarily Unavailable",
   "message": "This application has been suspended by the system administrator. Please update or contact management for further information.",
   "support_contact": "support@parknext.com"
